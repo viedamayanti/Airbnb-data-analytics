@@ -6,7 +6,7 @@ Welcome to my first data analytics project! This project is part of my IBM 10 we
 
 ## Project Structure
 
-- `data/`: Contains the dataset files, after cleaning and before cleaning .
+- `data/`: Contains the dataset files, both in their original state and after undergoing the cleaning process.
 - `notebooks/`: Jupyter notebooks for data cleaning, analysis, and initial visualizations.
 - `tableau/`: Tableau workbooks and visualizations.
 - `images/`: Stores images used in analysis and visualizations.
@@ -28,6 +28,10 @@ Welcome to my first data analytics project! This project is part of my IBM 10 we
 ## Beginner's Note
 
 This project marks my first dive into the world of data analytics! Through this project, I've been exploring the capabilities of Python, Jupyter Notebooks, and Tableau for data manipulation, analysis, and visualization. I'm excited to learn and grow while exploring Airbnb data and uncovering valuable insights. Feedback and suggestions for improvement are always appreciated!
+
+## Presentations
+
+The `Presentations` folder holds supplementary documents related to data visualization and analysis. You can find the PDF file of the PowerPoint presentation.
 
 ## Tableau Dashboard
 
